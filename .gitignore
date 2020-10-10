@@ -1,5 +1,4 @@
 .DS_Store
-.env
 .flaskenv
 *.pyc
 *.pyo
@@ -27,3 +26,7 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+# Secreat and debug
+.env_file
+
