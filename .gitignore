@@ -3,7 +3,6 @@
 *.pyc
 *.pyo
 env/
-env*
 dist/
 build/
 *.egg
@@ -15,8 +14,6 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
-.env_file
-
 # Coverage reports
 htmlcov/
 .coverage
@@ -28,5 +25,5 @@ htmlcov/
 .direnv
 
 # Secreat and debug
-.env_file
+#.env_file
 
